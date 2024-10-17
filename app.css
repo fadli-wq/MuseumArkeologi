@@ -21,6 +21,10 @@ body {
   font-size: 1.5rem;
 }
 
+.nav.scrolled {
+  background-color: #c2ded1;
+}
+
 #title-head {
   font-weight: 100;
   font-size: 4rem;
